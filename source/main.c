@@ -10,6 +10,7 @@ int main(int argc, char **argv)
 {
 
 	gfxInitDefault();
+	consoleInit(GFX_TOP, NULL);
 	iprintf("hewwo diots who exists");
 	while (1) {
 		gspWaitForVBlank();
