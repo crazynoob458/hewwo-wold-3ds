@@ -1,4 +1,4 @@
-main.o: D\:/devkitpro/msys2/hewwo-wold-3ds/source/main.c \
+main.o: D\:/devkitpro/msys2/hewwo-wold-3ds/hewwo-wold-3ds/source/main.c \
  D\:/devkitpro/libctru/include/3ds.h \
  D\:/devkitpro/libctru/include/3ds/types.h \
  D\:/devkitpro/libctru/include/3ds/result.h \
